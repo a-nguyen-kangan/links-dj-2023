@@ -4,11 +4,15 @@
 
 <nav>
 <ul>
-    <li><a href="#">Home</a></li>
+    <li><a href="Home">Home</a></li>
     <li><a href="/Text_Tutorials">Text Tutorials</a></li>
     <li><a href="/Component_Libraries">Component Libraries</a></li>
+    <li><a href="/GithubCopilot">GitHub Copilot</a></li>
+    <li><a href="/Netlify_Tutorials">Netlify Tutorials</a></li>
+
 </ul>
 </nav>
+
 
 <div>
     <slot />
