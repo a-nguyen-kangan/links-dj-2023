@@ -6,6 +6,7 @@
 <ul>
     <li><a href="#">Home</a></li>
     <li><a href="/Text_Tutorials">Text Tutorials</a></li>
+    <li><a href="/Component_Libraries">Component Libraries</a></li>
 </ul>
 </nav>
 
