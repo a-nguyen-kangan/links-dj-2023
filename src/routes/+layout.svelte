@@ -6,7 +6,7 @@
 <ul>
     <li><a href="#">Home</a></li>
     <li><a href="/Text_Tutorials">Text Tutorials</a></li>
-    <li><a href="/Text_Tutorials">GitHub Copilot</a></li>
+    <li><a href="/GithubCopilot">GitHub Copilot</a></li>
 </ul>
 </nav>
 
